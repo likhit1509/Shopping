@@ -28,7 +28,7 @@ To get started with the E-commerce website, follow these steps:
 3. Select the pages option under code and automation section.
 4. Change the branch from 'None' to 'main'.
 5. Click 'Save' and refresh the page after a minute.
-6. Access the website locally at `https://username.github.io/Shopping`.
+6. Access the website locally at `https://likhit1509.github.io/Shopping`.
 
 
 ## Contributing
